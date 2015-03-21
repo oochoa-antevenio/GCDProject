@@ -20,4 +20,4 @@ You should create one R script called run_analysis.R that does the following:
  
 The data_summary.txt file includes the tidy data set as requested.
 The CodeBook.md file the description of every variable on the final data set.
-And in the tun_analysis.R every step is describe for a better undertanding of the code.
+And in the run_analysis.R every step is describe for a better undertanding of the code.
